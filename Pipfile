@@ -12,10 +12,10 @@ mypy = "*"
 [packages]
 flask = "*"
 jsonschema = "*"
-bson = "*"
 pymongo = "*"
 flask-restful = "*"
 requests = "*"
+mongomock = "*"
 
 [requires]
 python_version = "3.7"
